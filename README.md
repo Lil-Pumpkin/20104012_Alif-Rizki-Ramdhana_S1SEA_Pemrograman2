@@ -5,5 +5,5 @@
 <hr>
 
 ## Daftar Isi :
-1. [Modul0 : Dasar Pemrograman 2](https://github.com/renzien/20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2.git)
+1. [Modul0 : Dasar Pemrograman 2](https://github.com/renzien/20104012_Alif-Rizki-Ramdhana_S1SEA_Pemrograman2/tree/Modul0)
 2. 
